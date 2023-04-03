@@ -130,3 +130,5 @@ dmypy.json
 
 #Pycham
 .idea/
+migrations/
+#migrations의 내용은 백업하지 않음
